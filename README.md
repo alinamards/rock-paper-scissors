@@ -6,3 +6,5 @@ In this project I'm going to demonstrate my knowledge of some basic JavaScript t
 - comparison operators, conditional statements, logical operators;
 - functions;
 - problem solving. 
+
+I'm going to update this project later. For noq I only have the algorithm to play 5 rounds of RPS.
